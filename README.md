@@ -1,6 +1,3 @@
-Here's a sample README file for your price-tracking script on GitHub:
-
----
 
 # Amazon Price Tracker
 
